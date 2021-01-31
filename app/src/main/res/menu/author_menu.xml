@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:bwq="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/action_add_Author"
+        android:icon="@android:drawable/ic_input_add"
+        android:orderInCategory="1"
+        android:title="@string/btn_ok_text"
+        app:showAsAction="ifRoom"/>
+</menu>
